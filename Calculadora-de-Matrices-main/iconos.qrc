@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>iconos/matriz.png</file>
+        <file>iconos/matriz2.png</file>
+        <file>iconos/matriz3.png</file>
+        <file>iconos/amarillo.png</file>
+        <file>iconos/azul.png</file>
+        <file>iconos/cafe.png</file>
+        <file>iconos/morado.png</file>
+        <file>iconos/naranja.png</file>
+        <file>iconos/rosa.png</file>
+        <file>iconos/verde.png</file>
+        <file>iconos/rojo.png</file>
+        <file>iconos/intercambio.png</file>
+        <file>iconos/salvar.png</file>
+        <file>iconos/autor.png</file>
+        <file>iconos/codigo-fuente.png</file>
+        <file>iconos/descargar.png</file>
+        <file>iconos/informacion.png</file>
+        <file>iconos/qt.jpg</file>
+        <file>iconos/ats.jpg</file>
+        <file>iconos/facebook.png</file>
+        <file>iconos/github.png</file>
+        <file>iconos/instagram.png</file>
+        <file>iconos/pdf.png</file>
+        <file>iconos/youtube.png</file>
+        <file>iconos/libro.png</file>
+        <file>iconos/extra.png</file>
+        <file>iconos/extrapolar.png</file>
+        <file>iconos/interpolar.png</file>
+        <file>iconos/probabilidad.png</file>
+        <file>iconos/trigonometria.png</file>
+        <file>iconos/una.png</file>
+        <file>iconos/x.png</file>
+        <file>iconos/fx.png</file>
+        <file>iconos/matrizdecamino.png</file>
+        <file>iconos/ab.png</file>
+        <file>iconos/resolver.png</file>
+    </qresource>
+</RCC>
